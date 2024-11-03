@@ -12,17 +12,17 @@ This repository showcases a variety of classic AI algorithms implemented in Pyth
 ## Implemented Algorithms
 Here is a list of the current implementations included in the repository:
 
-1. **Simple Pencil Game with Minimax Tree and Alpha-Beta Pruning**
+1. [**Simple Pencil Game with Minimax Tree and Alpha-Beta Pruning**](alphaBetaPruning)
    - Implements the Minimax algorithm with alpha-beta pruning for optimized decision-making in a simple game scenario.
 
-2. **8-Tile Problem with A* Search**
+2. [**8-Tile Problem with A* Search**](8tiles-problem-with-A-star-search)
    - Demonstrates the use of the A* search algorithm for solving the classic 8-tile puzzle, a well-known problem in AI pathfinding.
 
-3. **N-Queens Problem with Genetic Algorithm**
+3. [**N-Queens Problem with Genetic Algorithm**](n_Queens_Genetic_Algorithm)
    - Solves the N-Queens problem using a Genetic Algorithm, showcasing how evolutionary strategies can be used for combinatorial optimization.
 
-4. **Fredkin Gate Simulation**
+4. [**Fredkin Gate Simulation**](fredkin-gate)
    - A Python implementation that simulates the Fredkin gate, a reversible logic gate important in theoretical computer science.
 
-5. **N-Queens Problem with Simulated Annealing**
+5. [**N-Queens Problem with Simulated Annealing**](nqueens-simulated-annealing)
    - Provides an alternative solution to the N-Queens problem using Simulated Annealing, highlighting the importance of randomness for optimization.
